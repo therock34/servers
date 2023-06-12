@@ -10,7 +10,7 @@ info:
     name: No license
     url: https://neurohr.bytes.software/
 servers:
-  - url: https://ogulcan.herokuapp.com/boapi/v1
+  - url: https://serverapi2.herokuapp.com/boapi/v1
     description: Holdermoon Staking Portal
 
 security:
